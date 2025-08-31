@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-**BaldrVivaldelli/BaldrVivaldelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi name is augusto vivaldelli, i'm a passionate software eng. I love code and the study of computer cience in mostly all it fields
 
 Here are some ideas to get you started:
 
 - 💬 Ask me about Computer Science
 - 📫 How to reach me: augusto.a.vivaldelli@gmail.com
-- ⚡ Fun fact: I want to change de world
+- ⚡ I want to change de world
 
