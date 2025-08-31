@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Mi name is augusto vivaldelli, i'm a passionate software eng. I love code and the study of computer cience in mostly all it fields
+My name is Augusto Vivaldelli. I'm a passionate software engineer. I love coding and studying computer science in almost all of its fields
 
 Here are some ideas to get you started:
 
